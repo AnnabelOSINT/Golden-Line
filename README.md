@@ -1,1 +1,1 @@
-This is an example project proposal I did as my final project for my Global Development class in college.
+This is an example project proposal I did as my final project for my Global Development class in college. The images are not visible directly on GitHub but are visible if you download the file and view it. 
